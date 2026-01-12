@@ -5,12 +5,6 @@ A mini C++ project aimed at simulating a fully functional bank system with accou
 
 A demo video and some screenshots are attached for reference.
 
-# 🤝Contributors
-<ol type='I'>
-<li>Dhruvam Panchal - 202401415</li>
-<li>Dwij Patel - 202401418</li>
-<li>Shubh Patel - 202401478</li>
-<li>Yashraj Solanki - 202401481</li>
 <br>
 <hr>
 
